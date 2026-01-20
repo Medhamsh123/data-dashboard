@@ -11,3 +11,6 @@ This dataset shows monthly sales and website visitors.
 - Create charts in Excel or Python  
 - Add more real-world data  
 - Build a visual dashboard  
+## Python Visualization
+I created a line chart of monthly sales using Python and matplotlib.
+
